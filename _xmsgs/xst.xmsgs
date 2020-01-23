@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1335" delta="old" >"D:\verilog\cpu\cpum.v" Line 4: Port <arg fmt="%s" index="1">ins</arg> must not be declared to be an array
+</msg>
+
+<msg type="error" file="HDLCompiler" num="329" delta="old" >"D:\verilog\cpu\cpum.v" Line 46: Target &lt;<arg fmt="%s" index="1">ra</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="329" delta="old" >"D:\verilog\cpu\cpum.v" Line 47: Target &lt;<arg fmt="%s" index="1">rb</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="329" delta="old" >"D:\verilog\cpu\cpum.v" Line 48: Target &lt;<arg fmt="%s" index="1">rc</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="329" delta="old" >"D:\verilog\cpu\cpum.v" Line 49: Target &lt;<arg fmt="%s" index="1">rd</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="old" >"D:\verilog\cpu\cpum.v" Line 2: Module &lt;<arg fmt="%s" index="1">cpum</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

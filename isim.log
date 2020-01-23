@@ -1,0 +1,32 @@
+ISim log file
+Running: D:\verilog\cpu\test5_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/verilog/cpu/test5_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+00 00000010 xxxxxxxx
+00 00000010 xxxxxxxx 100000
+00 00000010 xxxxxxxx
+00 00001111 00000010
+01 00001111 00000010 100000 00000010
+01 00001111 00001111
+FUUUUCK
+10 00001111 00001111 000000 00010001
+10 00001111 zzzzzzzz
+11 00001111 zzzzzzzz 010000 00010001
+00 xxxxxxxx 00010001
+00 xxxxxxxx 00010001
+00 00000010 00010001
+00 00000010 00010001 100000
+00 00000010 00010001
+00 00001111 00000010
+01 00001111 00000010 100000 00000010
+01 00001111 00001111
+FUUUUCK
+10 00001111 00001111 000000 00010001
+10 00001111 zzzzzzzz
+11 00001111 zzzzzzzz 010000 00010001
